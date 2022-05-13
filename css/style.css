@@ -1,0 +1,14 @@
+@media screen and (min-width: 576px){
+    .card-deck {
+        gap: 20px;
+    }
+    .card {
+        min-width: 200px;
+    }
+}
+
+.footer {
+    color: beige;
+    padding: 2% 0;
+    margin-top: 2%;
+}
